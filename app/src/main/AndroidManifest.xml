@@ -47,7 +47,7 @@
             android:label="@string/title_activity_main_map" />
         <activity android:name=".RegisterActivity" />
         <activity android:name=".UserProfileActivity" />
-        <activity android:name=".AddGroupActivity"></activity>
+        <activity android:name=".AddGroupActivity"/>
     </application>
 
 </manifest>
