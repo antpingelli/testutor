@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="class1" />
+    <item type="id" name="class2" />
+    <item type="id" name="class3" />
+    <item type="id" name="class4" />
+    <item type="id" name="class5" />
+    <item type="id" name="class6" />
+    <item type="id" name="class_switch1" />
+    <item type="id" name="class_switch2" />
+    <item type="id" name="class_switch3" />
+    <item type="id" name="class_switch4" />
+    <item type="id" name="class_switch5" />
+    <item type="id" name="class_switch6" />
+</resources>

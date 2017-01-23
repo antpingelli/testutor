@@ -40,14 +40,6 @@
         android:layout_alignEnd="@+id/regUsername"
         android:hint="Password" />
 
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Register"
-        android:id="@+id/register"
-        android:layout_below="@+id/regPassword2"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentEnd="true" />
 
     <EditText
         android:layout_width="wrap_content"
@@ -59,4 +51,13 @@
         android:layout_alignParentStart="true"
         android:layout_alignEnd="@+id/regPassword"
         android:hint="Password Again" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Register"
+        android:id="@+id/register"
+        android:layout_below="@+id/regPassword2"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true" />
 </RelativeLayout>

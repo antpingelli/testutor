@@ -2,5 +2,10 @@
 <resources>
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorClass1">#ff0000</color> //Red
+    <color name="colorClass2">#ffff00</color> //Yellow
+    <color name="colorClass3">#00FFFF</color> //Cyan
+    <color name="colorClass4">#FF00FF</color> //Magenta
+    <color name="colorClass5">#0000FF</color> //Blue
+    <color name="colorClass6">#00ff00</color> //Green
 </resources>

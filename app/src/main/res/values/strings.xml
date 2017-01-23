@@ -15,4 +15,9 @@
     <string name="permission_rationale">"Contacts permissions are needed for providing email
         completions."
     </string>
+    <string name="newUserFailed">Failed to create new user</string>
+    <string name="emptyClasses">You have not selected any classes yet.</string>
+    <string name="add_classes">Add Classes</string>
+    <string name="add_group">Add Group</string>
+    <string name="no_classes_added">You have not added any classes yet.\nClick \'Add Classes\' to add some.</string>
 </resources>
